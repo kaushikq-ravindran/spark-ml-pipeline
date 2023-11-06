@@ -72,6 +72,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-**Note**: Replace `yourusername` with your actual GitHub username and adjust file paths/names as necessary. Don't forget to actually include a `CONTRIBUTING.md` and a `LICENSE.md` file in your repository if you reference them in the README.
-
 
